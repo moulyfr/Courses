@@ -1,0 +1,101 @@
+commit 063c79589d4fabc6b71dd39ff38dffb838c11fed
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Thu Nov 29 18:00:40 2018 -0500
+
+    Added figure size and point size to pdf function, and cex, font, main inputs for raprt.plot, for question 1e. Also added cat lines explaining what is being printed to Mushroom.R: before print(Data.tree$frame$var), before confusion matrix, and before rpart. Also added cat lines to Seeds.R before print(varImp(knnFit)), print optimal k value, and before confusion matrix, explaining what is being printed.
+
+commit 84358c289415b7dc8b578f62ca512f19297a4b2f
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Thu Nov 29 17:26:52 2018 -0500
+
+    Changed cp to 0.005, because sometimes with 0.006 2 splits occur!
+
+commit 2afff69a3c4109dfb4ef1e99cf2b93332de34497
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Thu Nov 29 14:51:05 2018 -0500
+
+    Added components for 2e: added print(knnfit) to print optimal value of k, determined by knnFit
+
+commit 8ec8b9ceb3f99c9dcaa249be5fe3b9aef793c5e9
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Thu Nov 29 12:56:09 2018 -0500
+
+    Added a component to 2a: added a line that converts label column to factor
+
+commit aa46cf8f4ba105ce72ac660eacfdd830c7362fe9
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 22:07:25 2018 -0500
+
+    Added components for 2d: print most important features of the model using varImp(knnFit)
+
+commit 15f82f4b49778ae06bbd7a3aa39b13b4080a75a7
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 20:11:07 2018 -0500
+
+     Completed 2f: defined variable knnPred as predict(knnFit, newdata=test.d), added a line with table(knnPred, test.d)
+
+commit c9e678e06ff2244aa91d3b67e215b765b8f12b64
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 20:09:47 2018 -0500
+
+    Completed 1c: added the optional argument cp=0.006 to rpart (Data.tree <-rpart(f, data=train.d, cp=0.006) to make a 3-way split in the decision tree
+
+commit c6d7238748c6de3406804f61247c74c3cc74a22d
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 18:23:15 2018 -0500
+
+    Added components for 2f: defined variable knnPred, which is predict(knnfit, newdata=test.d), and table(knnPred, test.d)
+
+commit 68a4054178985044c1266d542392e490f8ac9d06
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 18:21:41 2018 -0500
+
+    Added components for question 1d. Added variable testPred which is defined as predict(Data.tree, newdata=test.d, type=class), then table(testPred, test.d). Also added components for 1e. Loaded library of raprt.plot, pdf function, rpart.plot of Data.tree, and dev.off
+
+commit fd58be0e68247e4f27a5dcbc432d2118832bca49
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 16:55:41 2018 -0500
+
+    Added components for question 2a: read in the url as variable CSV, defined data as data frame of CSV. Added components for 2b: load caret library, define ind, define train.d as Data sliced for ind, and defined testing data as Data sliced for not equal to ind. Added comonents for 2c: defined knnFit as indicated in class notes
+
+commit 41787b60c3f20921089f1d3dd7ed06aeb56cd136
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 12:09:25 2018 -0500
+
+    Added components for question 1c: loaded rpart library. Defined variable f as class column against all other columns. Defined Data.tree
+
+commit b07be48575e1903d68867271e9b7d9fc2583f9be
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 12:06:25 2018 -0500
+
+    Made a file called Seeds.R for question 2. Added my name and name of file to the top of the script
+
+commit 31e6b534eea20a00d6dcdde6e4a27e73f3064a8d
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Wed Nov 28 11:57:37 2018 -0500
+
+    Removed csv file from read.csv, and replaced with the URL
+
+commit 3b2af1c358e8e4cd051a3bc40d6f33e513c88fdb
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Tue Nov 27 20:54:52 2018 -0500
+
+    Added componets for question 1b: randomly split data into training (80%) and testing (20%) data sets. First I defined ind as showed in class, and then sliced Data for ind (for training data), and for not equal to ind (for testing data)
+
+commit 48873e6408fb9fea332cd8048fc3b523ffd78f0f
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Tue Nov 27 20:00:53 2018 -0500
+
+    Changed the name of DataFrame variable to Data
+
+commit db24aca86c9dc738f422bb47c5a716278d8fddc7
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Tue Nov 27 18:51:23 2018 -0500
+
+    Added a line that defines CSV as read.csv of UTSC-Mushroom.csv. Added a line that defines DataFrame as data.frame(CSV)
+
+commit 782ae240b5aff8cb3b0199bfff6602054d2c92cd
+Author: Mouly R <mouly.rahman@gmail.com>
+Date:   Tue Nov 27 18:44:06 2018 -0500
+
+    Started working on Assignment 10. For question 1, I will make a script called Mushroom.R. I have added my name, assignment number, and file name on the top of the script
