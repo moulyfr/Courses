@@ -1,0 +1,589 @@
+contig	snpPosition	Type	Annotation	geneID	referenceCodon	modifiedCodon	referenceAA	modifiedAA
+Contig_1	17968	Intergenic	-	-	-	-	-	-
+Contig_1	18062	Intergenic	-	-	-	-	-	-
+Contig_1	18089	Intergenic	-	-	-	-	-	-
+Contig_1	18109	Intergenic	-	-	-	-	-	-
+Contig_1	18126	Intergenic	-	-	-	-	-	-
+Contig_1	18206	Intergenic	-	-	-	-	-	-
+Contig_1	18263	Intergenic	-	-	-	-	-	-
+Contig_1	18402	Intergenic	-	-	-	-	-	-
+Contig_2	1117979	Intergenic	-	-	-	-	-	-
+Contig_2	1232909	Intergenic	-	-	-	-	-	-
+Contig_2	1413966	Intergenic	-	-	-	-	-	-
+Contig_2	1476664	Intergenic	-	-	-	-	-	-
+Contig_2	1725365	Intergenic	-	-	-	-	-	-
+Contig_2	184730	Intergenic	-	-	-	-	-	-
+Contig_2	1911445	Intergenic	-	-	-	-	-	-
+Contig_2	1985368	Intergenic	-	-	-	-	-	-
+Contig_2	2128135	Intergenic	-	-	-	-	-	-
+Contig_2	220105	Intergenic	-	-	-	-	-	-
+Contig_2	2335605	Intergenic	-	-	-	-	-	-
+Contig_2	2379037	Intergenic	-	-	-	-	-	-
+Contig_2	2505343	Intergenic	-	-	-	-	-	-
+Contig_2	2537963	Intergenic	-	-	-	-	-	-
+Contig_2	2554328	Intergenic	-	-	-	-	-	-
+Contig_2	2574590	Intergenic	-	-	-	-	-	-
+Contig_2	2617669	Intergenic	-	-	-	-	-	-
+Contig_2	2639569	Intergenic	-	-	-	-	-	-
+Contig_2	2723705	Intergenic	-	-	-	-	-	-
+Contig_2	2767770	Intergenic	-	-	-	-	-	-
+Contig_2	2856374	Intergenic	-	-	-	-	-	-
+Contig_2	2904779	Intergenic	-	-	-	-	-	-
+Contig_2	2936866	Intergenic	-	-	-	-	-	-
+Contig_2	2951227	Intergenic	-	-	-	-	-	-
+Contig_2	3013068	Intergenic	-	-	-	-	-	-
+Contig_2	3029182	Intergenic	-	-	-	-	-	-
+Contig_2	3152481	Intergenic	-	-	-	-	-	-
+Contig_2	3157880	Intergenic	-	-	-	-	-	-
+Contig_2	3227435	Intergenic	-	-	-	-	-	-
+Contig_2	3258643	Intergenic	-	-	-	-	-	-
+Contig_2	3268237	Intergenic	-	-	-	-	-	-
+Contig_2	3416944	Intergenic	-	-	-	-	-	-
+Contig_2	4036490	Intergenic	-	-	-	-	-	-
+Contig_2	433583	Intergenic	-	-	-	-	-	-
+Contig_2	4485616	Intergenic	-	-	-	-	-	-
+Contig_2	4505630	Intergenic	-	-	-	-	-	-
+Contig_2	4596243	Intergenic	-	-	-	-	-	-
+Contig_2	4797227	Intergenic	-	-	-	-	-	-
+Contig_2	4821001	Intergenic	-	-	-	-	-	-
+Contig_2	4847956	Intergenic	-	-	-	-	-	-
+Contig_2	4887871	Intergenic	-	-	-	-	-	-
+Contig_2	4932792	Intergenic	-	-	-	-	-	-
+Contig_2	495411	Intergenic	-	-	-	-	-	-
+Contig_2	4962875	Intergenic	-	-	-	-	-	-
+Contig_2	4971940	Intergenic	-	-	-	-	-	-
+Contig_2	5071860	Intergenic	-	-	-	-	-	-
+Contig_2	5131880	Intergenic	-	-	-	-	-	-
+Contig_2	5241104	Intergenic	-	-	-	-	-	-
+Contig_2	5417844	Intergenic	-	-	-	-	-	-
+Contig_2	5465047	Intergenic	-	-	-	-	-	-
+Contig_2	5503198	Intergenic	-	-	-	-	-	-
+Contig_2	5698098	Intergenic	-	-	-	-	-	-
+Contig_2	5756866	Intergenic	-	-	-	-	-	-
+Contig_2	5784763	Intergenic	-	-	-	-	-	-
+Contig_2	730768	Intergenic	-	-	-	-	-	-
+Contig_2	732366	Intergenic	-	-	-	-	-	-
+Contig_2	905435	Intergenic	-	-	-	-	-	-
+Contig_2	908837	Intergenic	-	-	-	-	-	-
+Contig_2	927190	Intergenic	-	-	-	-	-	-
+Contig_3	1662	Intergenic	-	-	-	-	-	-
+Contig_3	1678	Intergenic	-	-	-	-	-	-
+Contig_3	1719	Intergenic	-	-	-	-	-	-
+Contig_3	1755	Intergenic	-	-	-	-	-	-
+Contig_3	26416	Intergenic	-	-	-	-	-	-
+Contig_3	33566	Intergenic	-	-	-	-	-	-
+Contig_3	35946	Intergenic	-	-	-	-	-	-
+Contig_3	39039	Intergenic	-	-	-	-	-	-
+Contig_3	39061	Intergenic	-	-	-	-	-	-
+Contig_3	39138	Intergenic	-	-	-	-	-	-
+Contig_1	18486	Synonymous	Uncharacterized protein 	PSPPH_A0021	GAA	GAG	E	E
+Contig_1	18657	Synonymous	Uncharacterized protein 	PSPPH_A0021	CTC	CTA	L	L
+Contig_1	18681	Synonymous	Uncharacterized protein 	PSPPH_A0021	GAA	GAG	E	E
+Contig_1	18886	Synonymous	Uncharacterized protein 	PSPPH_A0022	GCC	GCT	A	A
+Contig_1	19069	Synonymous	Uncharacterized protein 	PSPPH_A0022	GCA	GCG	A	A
+Contig_1	8333	Non-synonymous	Type III effector HopD1 	PSPPH_A0010	GCC	GTC	A	V
+Contig_1	97404	Non-synonymous	Syringolide biosynthetic protein AvrD1 	PSPPH_A0113	CAA	CGA	Q	R
+Contig_2	1002089	Non-synonymous	Tellurium resistance protein, putative 	PSPPH_0839	GAA	AAA	E	K
+Contig_2	1005908	Synonymous	Uncharacterized protein 	PSPPH_0842	TTC	TTT	F	F
+Contig_2	1009009	Non-synonymous	TatD family hydrolase 	PSPPH_0845	GGC	AGC	G	S
+Contig_2	1012709	Non-synonymous	Phosphoenolpyruvate-protein phosphotransferase,EI/HPr/EIIA components 	PSPPH_0847	GCA	GTA	A	V
+Contig_2	1025303	Non-synonymous	Sigma-54 dependent DNA-binding response regulator 	PSPPH_0857	GAG	AAG	E	K
+Contig_2	1040854	Non-synonymous	Uncharacterized protein 	PSPPH_0869	TCC	TTC	S	F
+Contig_2	1105666	Non-synonymous	Aldose 1-epimerase family protein 	PSPPH_0931	GCC	GGC	A	G
+Contig_2	1125180	Synonymous	Uncharacterized protein 	PSPPH_0947	GCG	GCT	A	A
+Contig_2	113510	Non-synonymous	ParB family protein 	PSPPH_0101	GAA	TAA	E	*
+Contig_2	1163370	Non-synonymous	Glycosyl transferase, group 2 family protein 	PSPPH_0975	GCG	GAG	A	E
+Contig_2	1163910	Non-synonymous	Glycosyl transferase, group 2 family protein 	PSPPH_0975	ACC	AGC	T	S
+Contig_2	1166376	Non-synonymous	Glycosyl transferase, group 2 family protein 	PSPPH_0977	GCC	GTC	A	V
+Contig_2	1183503	Non-synonymous	Ribosome-binding ATPase YchF 	PSPPH_0988	CCG	GCG	P	A
+Contig_2	1201917	Synonymous	Deoxyribodipyrimidine photolyase 	PSPPH_1010	AGT	AGC	S	S
+Contig_2	1216873	Synonymous	Uncharacterized protein 	PSPPH_1026	AAC	AAT	N	N
+Contig_2	1237196	Non-synonymous	FMN reductase (NADH) RutF 	PSPPH_1044	GGC	TGC	G	C
+Contig_2	1240968	Non-synonymous	Transcriptional regulator, TetR family 	PSPPH_1049	GCG	TCG	A	S
+Contig_2	1253755	Non-synonymous	Glycosyl transferase, group 1 family protein 	PSPPH_1061	ACG	ATG	T	M
+Contig_2	1270677	Synonymous	Uncharacterized protein 	PSPPH_1080	TCG	TCT	S	S
+Contig_2	1272848	Non-synonymous	Bacteriophage N4 adsorption protein B 	PSPPH_1081	TAC	TAG	Y	*
+Contig_2	1278355	Non-synonymous	PsiE family protein 	PSPPH_1085	GTC	GAC	V	D
+Contig_2	1323626	Synonymous	Cyclic pyranopterin monophosphate synthase accessory protein 	PSPPH_1122	CGC	CGT	R	R
+Contig_2	1355237	Non-synonymous	Valine--tRNA ligase 	PSPPH_1153	AAC	AAA	N	K
+Contig_2	1398081	Synonymous	6-phosphogluconolactonase 	PSPPH_1189	GTT	GTA	V	V
+Contig_2	1460509	Synonymous	Lipase 	PSPPH_1254	ACC	ACT	T	T
+Contig_2	1474762	Non-synonymous	Type III chaperone protein ShcM 	PSPPH_1265	GCT	GTT	A	V
+Contig_2	1494439	Non-synonymous	Type III negative regulator of hrp expression HrpV 	PSPPH_1281	GCG	GTG	A	V
+Contig_2	1508902	Non-synonymous	Type III effector HopX1 	PSPPH_1296	CAG	TAG	Q	*
+Contig_2	1509296	Non-synonymous	Type III effector HopX1 	PSPPH_1296	CCC	CGC	P	R
+Contig_2	1509622	Non-synonymous	Type III effector HopX1 	PSPPH_1296	AAA	GAA	K	E
+Contig_2	152972	Non-synonymous	ATP-dependent Clp protease ATP-binding subunit 	PSPPH_0129	CCC	ACC	P	T
+Contig_2	1567480	Non-synonymous	Major facilitator family transporter 	PSPPH_1350	GTA	ATA	V	I
+Contig_2	15749	Synonymous	Glycine--tRNA ligase beta subunit 	PSPPH_0011	ATC	ATA	I	I
+Contig_2	1606297	Non-synonymous	Helicase domain protein 	PSPPH_1383	GCC	GAC	A	D
+Contig_2	1616758	Synonymous	Penicillin amidase family protein 	PSPPH_1391	CGC	CGT	R	R
+Contig_2	1624938	Synonymous	Uncharacterized protein 	PSPPH_1400	ACT	ACC	T	T
+Contig_2	1633162	Non-synonymous	OmpA family protein 	PSPPH_1408	CCT	TCT	P	S
+Contig_2	1635745	Non-synonymous	Uncharacterized protein 	PSPPH_1411	GAC	GAA	D	E
+Contig_2	1647194	Non-synonymous	Major facilitator family transporter 	PSPPH_1420	GAG	GCG	E	A
+Contig_2	1659313	Non-synonymous	ATP-dependent helicase HrpA 	PSPPH_1428	TTC	ATC	F	I
+Contig_2	1694446	Non-synonymous	Uncharacterized protein 	PSPPH_1452	GGT	GAT	G	D
+Contig_2	1744233	Non-synonymous	Oxidoreductase, short chain dehydrogenase/reductase family 	PSPPH_1502	GCC	TCC	A	S
+Contig_2	1780141	Non-synonymous	Uncharacterized protein 	PSPPH_1525	CGG	CTG	R	L
+Contig_2	1839235	Synonymous	EAL domain/GGDEF domain protein 	PSPPH_1586	CGC	CGT	R	R
+Contig_2	186254	Non-synonymous	Stability cassette protein, putative 	PSPPH_0159	GGT	CGT	G	R
+Contig_2	1896288	Synonymous	Ribonuclease E 	PSPPH_1632	GCC	GCA	A	A
+Contig_2	190285	Non-synonymous	Uncharacterized protein 	PSPPH_0165	ATG	ATT	M	I
+Contig_2	1937743	Synonymous	Major facilitator family transporter 	PSPPH_1674	TGT	TGC	C	C
+Contig_2	1942082	Non-synonymous	Cysteine--tRNA ligase 	PSPPH_1679	GGC	TGC	G	C
+Contig_2	2001847	Non-synonymous	Methyl-accepting chemotaxis protein 	PSPPH_1727	GAT	GAG	D	E
+Contig_2	2034471	Non-synonymous	Non-ribosomal peptide synthetase 	PSPPH_1749	CAG	TAG	Q	*
+Contig_2	2035169	Synonymous	Non-ribosomal peptide synthetase 	PSPPH_1749	TCT	TCC	S	S
+Contig_2	2071065	Non-synonymous	Guanine deaminase 	PSPPH_1772	ACA	ATA	T	I
+Contig_2	2078173	Non-synonymous	Chromosome partition protein Smc 	PSPPH_1777	ATA	ATG	I	M
+Contig_2	2079817	Non-synonymous	Chromosome partition protein Smc 	PSPPH_1777	GAA	GAC	E	D
+Contig_2	2090940	Non-synonymous	DNA polymerase III, subunits gamma and tau 	PSPPH_1785	GTT	GAT	V	D
+Contig_2	2110181	Non-synonymous	Smr domain protein 	PSPPH_1806	AGC	AAC	S	N
+Contig_2	2122350	Non-synonymous	GufA protein 	PSPPH_1822	GGA	GCA	G	A
+Contig_2	2128951	Synonymous	DUF404 	PSPPH_1828	GCT	GCC	A	A
+Contig_2	2227435	Non-synonymous	Pyoverdine chromophore synthetase 	PSPPH_1911	TTG	GTG	L	V
+Contig_2	2247190	Synonymous	Pyoverdine sidechain peptide synthetase II, D-Asp-L-Thr component 	PSPPH_1924	TTG	CTG	L	L
+Contig_2	2260404	Synonymous	Pyoverdine sidechain peptide synthetase IV, D-Asp-L-Ser component 	PSPPH_1926	GCA	GCC	A	A
+Contig_2	2263642	Non-synonymous	Pyoverdine sidechain peptide synthetase IV, D-Asp-L-Ser component 	PSPPH_1926	AGT	GGT	S	G
+Contig_2	2295639	Non-synonymous	Sensory box/GGDEF domain/EAL domain protein 	PSPPH_1950	CGC	TGC	R	C
+Contig_2	2319871	Non-synonymous	Uncharacterized protein 	PSPPH_1972	TTC	TGC	F	C
+Contig_2	2320017	Non-synonymous	Uncharacterized protein 	PSPPH_1972	TAA	GAA	*	E
+Contig_2	2360043	Synonymous	Uncharacterized protein 	PSPPH_2009	ACC	ACT	T	T
+Contig_2	2426013	Synonymous	Nitrate reductase 	PSPPH_2070	CTG	CTA	L	L
+Contig_2	2458699	Non-synonymous	3-carboxy-cis,cis-muconate cycloisomerase 	PSPPH_2099	GCA	TCA	A	S
+Contig_2	2507424	Non-synonymous	Conserved domain protein 	PSPPH_2152	GCC	CCC	A	P
+Contig_2	2521600	Synonymous	Bacterial luciferase family protein 	PSPPH_2166	GCC	GCT	A	A
+Contig_2	2534188	Non-synonymous	General secretion pathway protein GspD 	PSPPH_2181	GAA	TAA	E	*
+Contig_2	2542849	Synonymous	Metalloprotease, putative 	PSPPH_2186	ATC	ATT	I	I
+Contig_2	2550066	Non-synonymous	Transcriptional regulator, Cro/CI family 	PSPPH_2194	GTT	ATT	V	I
+Contig_2	2597772	Synonymous	Uncharacterized protein 	PSPPH_2238	GGC	GGG	G	G
+Contig_2	2603566	Non-synonymous	Uncharacterized protein 	PSPPH_2244	GAC	GAA	D	E
+Contig_2	2626803	Non-synonymous	Cointegrate resolution protein S 	PSPPH_2264	CGC	TGC	R	C
+Contig_2	2645263	Non-synonymous	ABC transporter protein, ATP binding component 	PSPPH_2279	TGT	GGT	C	G
+Contig_2	2649432	Non-synonymous	Rhs family protein 	PSPPH_2282	CCG	TCG	P	S
+Contig_2	2703638	Non-synonymous	LuxR response regulator receiver 	PSPPH_2328	CCT	CGT	P	R
+Contig_2	2705358	Non-synonymous	UvrABC system protein C 	PSPPH_2329	GCG	ACG	A	T
+Contig_2	2734668	Synonymous	Papain cysteine protease family protein 	PSPPH_2358	AAC	AAT	N	N
+Contig_2	2750782	Synonymous	Branched-chain amino acid ABC transporter, ATP-binding protein 	PSPPH_2372	GAG	GAA	E	E
+Contig_2	2753769	Synonymous	Monooxygenase, NtaA/SnaA/SoxA family 	PSPPH_2375	CCA	CCG	P	P
+Contig_2	2777100	Synonymous	Uncharacterized protein 	PSPPH_2399	GCG	GCA	A	A
+Contig_2	2786430	Non-synonymous	Site-specific recombinase, phage integrase family 	PSPPH_2410	ATC	ACC	I	T
+Contig_2	2796251	Non-synonymous	Uncharacterized protein 	PSPPH_2417	GCA	TCA	A	S
+Contig_2	2809719	Non-synonymous	Uncharacterized protein 	PSPPH_2429	GAT	GAA	D	E
+Contig_2	2837772	Synonymous	Nitrogen assimilation regulatory protein Nac, putative 	PSPPH_2454	CGG	CGA	R	R
+Contig_2	2914039	Non-synonymous	Type III secretion component, putative 	PSPPH_2528	ACC	GCC	T	A
+Contig_2	2921427	Non-synonymous	Type III secretion component, putative 	PSPPH_2538	CTG	ATG	L	M
+Contig_2	2925856	Non-synonymous	Uncharacterized protein 	PSPPH_2540	GCC	GGC	A	G
+Contig_2	2938520	Non-synonymous	Oxidoreductase, putative 	PSPPH_2547	TGT	GGT	C	G
+Contig_2	2945509	Non-synonymous	Transcriptional regulator, LysR family 	PSPPH_2553	AAT	AGT	N	S
+Contig_2	2945810	Non-synonymous	Transcriptional regulator, LysR family 	PSPPH_2553	ATC	ATG	I	M
+Contig_2	2963098	Synonymous	Insecticidal toxin complex protein, putative 	PSPPH_2571	GCA	GCG	A	A
+Contig_2	2971410	Non-synonymous	UPF0502 protein PSPPH_2577 	PSPPH_2577	CGC	CAC	R	H
+Contig_2	3001891	Non-synonymous	Sensor histidine kinase/response regulator 	PSPPH_2604	CAG	TAG	Q	*
+Contig_2	3004344	Non-synonymous	Sensory box sensor histidine kinase/response regulator 	PSPPH_2606	AAT	CAT	N	H
+Contig_2	3009118	Synonymous	Membrane protein, putative 	PSPPH_2610	AAA	AAG	K	K
+Contig_2	3011584	Non-synonymous	Oxidoreductase, short-chain dehydrogenase/reductase family 	PSPPH_2612	AGC	AGA	S	R
+Contig_2	3012242	Non-synonymous	Phosphotransferase enzyme family 	PSPPH_2613	TGG	TAG	W	*
+Contig_2	3028228	Synonymous	Uncharacterized protein 	PSPPH_2624	GTT	GTA	V	V
+Contig_2	3035000	Non-synonymous	Hydroxymethylglutaryl-CoA lyase 	PSPPH_2629	GCC	GTC	A	V
+Contig_2	3037846	Non-synonymous	Acyl-CoA dehydrogenase family protein 	PSPPH_2632	GCC	TCC	A	S
+Contig_2	3038992	Non-synonymous	OmpA family protein 	PSPPH_2633	CTG	CCG	L	P
+Contig_2	3039597	Non-synonymous	OmpA family protein 	PSPPH_2633	CAA	CAT	Q	H
+Contig_2	3042851	Non-synonymous	Outer membrane protein, OMP85 family 	PSPPH_2636	GGC	GTC	G	V
+Contig_2	3046507	Non-synonymous	Uncharacterized protein 	PSPPH_2637	CGT	CAT	R	H
+Contig_2	3050454	Synonymous	Multidrug RND efflux transporter, permease protein MdtB 	PSPPH_2641	GCC	GCG	A	A
+Contig_2	3065581	Non-synonymous	Trehalose synthase/probable maltokinase 	PSPPH_2647	CTG	CAG	L	Q
+Contig_2	3093131	Synonymous	Putrescine ABC transporter, periplasmic putrescine-binding protein 	PSPPH_2671	GTT	GTG	V	V
+Contig_2	3093378	Non-synonymous	Putrescine ABC transporter, periplasmic putrescine-binding protein 	PSPPH_2671	TAG	CAG	*	Q
+Contig_2	3094764	Non-synonymous	Binding-protein dependent transport system inner membrane protein 	PSPPH_2673	CTC	TTC	L	F
+Contig_2	3101503	Synonymous	Error-prone DNA polymerase 	PSPPH_2680	TTG	TTA	L	L
+Contig_2	3134627	Non-synonymous	Ornithine aminotransferase 	PSPPH_2707	GCC	GAC	A	D
+Contig_2	3135967	Non-synonymous	Fatty acid desaturase 	PSPPH_2709	AGT	AGA	S	R
+Contig_2	316501	Non-synonymous	Sulfate transporter family protein 	PSPPH_0274	ATG	ACG	M	T
+Contig_2	3169044	Non-synonymous	Aldolase, putative 	PSPPH_2737	TGT	AGT	C	S
+Contig_2	3249194	Synonymous	Bifunctional polymyxin resistance protein ArnA 	PSPPH_2804	CGC	CGT	R	R
+Contig_2	3253679	Non-synonymous	UDP-glucose 6-dehydrogenase 	PSPPH_2809	AAA	AAC	K	N
+Contig_2	3286374	Non-synonymous	Bacterial extracellular solute-binding domain protein 	PSPPH_2839	GAG	GTG	E	V
+Contig_2	3286645	Non-synonymous	Sodium/hydrogen exchanger family protein 	PSPPH_2840	ATG	GTG	M	V
+Contig_2	3303901	Non-synonymous	Pyruvate dehydrogenase 	PSPPH_2857	CAG	CAT	Q	H
+Contig_2	3308325	Synonymous	Lipoprotein, putative 	PSPPH_2861	CTG	CTT	L	L
+Contig_2	3327108	Non-synonymous	Oxidoreductase Tas, aldo/keto reductase family 	PSPPH_2880	AGT	ACT	S	T
+Contig_2	3327295	Synonymous	Oxidoreductase Tas, aldo/keto reductase family 	PSPPH_2880	CTG	TTG	L	L
+Contig_2	3328056	Non-synonymous	ABC transporter, ATP-binding/permease protein 	PSPPH_2881	GAA	GCA	E	A
+Contig_2	3349809	Synonymous	ABC transporter, ATP-binding/permease protein 	PSPPH_2896	ACC	ACA	T	T
+Contig_2	3355717	Non-synonymous	Yersiniabactin non-ribosomal peptide synthetase 	PSPPH_2897	TAC	TAG	Y	*
+Contig_2	3430124	Non-synonymous	Hydrolase, carbon-nitrogen family 	PSPPH_2956	CTG	CAG	L	Q
+Contig_2	3473629	Synonymous	TonB-dependent receptor, putative 	PSPPH_2991	CTG	CTA	L	L
+Contig_2	3489806	Non-synonymous	Iron compound ABC transporter, periplasmic iron compound-binding protein 	PSPPH_3006	TGG	TGC	W	C
+Contig_2	3500367	Non-synonymous	Transcriptional regulator, LysR family 	PSPPH_3014	ATC	ACC	I	T
+Contig_2	3511894	Non-synonymous	Methyl-accepting chemotaxis protein 	PSPPH_3025	GTC	GCC	V	A
+Contig_2	3527890	Non-synonymous	TonB-dependent siderophore receptor, putative 	PSPPH_3037	GAA	TAA	E	*
+Contig_2	3532988	Non-synonymous	Sensor histidine kinase 	PSPPH_3041	GAA	GTA	E	V
+Contig_2	3542045	Non-synonymous	Major facilitator family transporter 	PSPPH_3047	ATT	AGT	I	S
+Contig_2	3547695	Non-synonymous	Phospholipase/carboxylesterase family protein 	PSPPH_3053	TAC	TGC	Y	C
+Contig_2	3554592	Non-synonymous	General secretion pathway protein GspI 	PSPPH_3060	TTC	GTC	F	V
+Contig_2	3615967	Non-synonymous	NADH-quinone oxidoreductase subunit H 	PSPPH_3115	ACC	GCC	T	A
+Contig_2	3622593	Non-synonymous	NADH-quinone oxidoreductase subunit N 	PSPPH_3121	CCT	TCT	P	S
+Contig_2	3629148	Synonymous	Sensor histidine kinase 	PSPPH_3126	GGT	GGG	G	G
+Contig_2	3643267	Synonymous	Aminotransferase, DegT/DnrJ/EryC1/StrS family 	PSPPH_3140	ACG	ACA	T	T
+Contig_2	3645819	Non-synonymous	Glycosyl transferase, group 2 family protein 	PSPPH_3142	TAC	TAG	Y	*
+Contig_2	3715928	Non-synonymous	Uncharacterized protein 	PSPPH_3206	GAG	GTG	E	V
+Contig_2	3722410	Synonymous	Fatty acid oxidation complex subunit alpha 	PSPPH_3210	GCG	GCA	A	A
+Contig_2	374631	Synonymous	RND efflux transporter, hydrophobe/amphiphile efflux-1 (HAE1) family 	PSPPH_0329	CAA	CAG	Q	Q
+Contig_2	3752336	Non-synonymous	Uncharacterized protein 	PSPPH_3236	TAT	TTT	Y	F
+Contig_2	3887773	Non-synonymous	Chemotaxis sensor histidine kinase CheA 	PSPPH_3360	AAG	AGG	K	R
+Contig_2	3907915	Synonymous	Flagellum-specific ATP synthase FliI 	PSPPH_3380	CTG	CTA	L	L
+Contig_2	3938374	Non-synonymous	Flagellar basal-body protein, putative 	PSPPH_3404	CCG	CTG	P	L
+Contig_2	3943824	Synonymous	Cyanate hydratase 	PSPPH_3410	GTC	GTT	V	V
+Contig_2	3949642	Synonymous	Major facilitator family transporter 	PSPPH_3418	GCG	GCA	A	A
+Contig_2	3971479	Non-synonymous	Probable sodium/solute symporter PA0287 , putative 	PSPPH_3436	AGC	AGA	S	R
+Contig_2	3999867	Non-synonymous	L-serine ammonia-lyase 	PSPPH_3461	GTC	GGC	V	G
+Contig_2	4025218	Synonymous	Membrane protein, putative 	PSPPH_3485	CTG	CTT	L	L
+Contig_2	4068139	Non-synonymous	Acetyl-coenzyme A synthetase 	PSPPH_3528	GCC	TCC	A	S
+Contig_2	407913	Non-synonymous	Phosphorylase 	PSPPH_0356	AGT	GGT	S	G
+Contig_2	4096952	Non-synonymous	Putative manganese efflux pump MntP 	PSPPH_3559	GCG	ACG	A	T
+Contig_2	4105195	Non-synonymous	Uncharacterized protein 	PSPPH_3564	AAG	AAC	K	N
+Contig_2	4107554	Non-synonymous	TPR domain protein 	PSPPH_3567	GCC	GAC	A	D
+Contig_2	4108200	Synonymous	TPR domain protein 	PSPPH_3567	CTG	CTT	L	L
+Contig_2	4118662	Synonymous	Sugar transporter BMEII0354 	PSPPH_3574	ACA	ACG	T	T
+Contig_2	4125268	Non-synonymous	Uncharacterized protein 	PSPPH_3580	CAG	CGG	Q	R
+Contig_2	4169616	Non-synonymous	Uncharacterized protein 	PSPPH_3625	GTC	GCC	V	A
+Contig_2	4181816	Non-synonymous	3-deoxy-7-phosphoheptulonate synthase 	PSPPH_3636	AGC	ATC	S	I
+Contig_2	4214588	Non-synonymous	DNA gyrase subunit A 	PSPPH_3667	ATA	ACA	I	T
+Contig_2	4292296	Non-synonymous	Uncharacterized protein 	PSPPH_3742	TCC	CCC	S	P
+Contig_2	4319486	Non-synonymous	TolA protein 	PSPPH_3768	ACC	GCC	T	A
+Contig_2	4327436	Synonymous	Uncharacterized protein 	PSPPH_3777	TTA	TTG	L	L
+Contig_2	4362789	Non-synonymous	Lipoprotein 	PSPPH_3810	TCC	TTC	S	F
+Contig_2	4365010	Non-synonymous	tRNA pseudouridine synthase D 	PSPPH_3813	GAG	GAC	E	D
+Contig_2	4426385	Synonymous	Transcriptional regulator, TetR family 	PSPPH_3872	CGT	CGC	R	R
+Contig_2	4457867	Non-synonymous	Glycerol kinase 	PSPPH_3899	CAG	CAT	Q	H
+Contig_2	4468725	Synonymous	2-hydroxychromene-2-carboxylate isomerase family protein 	PSPPH_3908	AAA	AAG	K	K
+Contig_2	4473029	Non-synonymous	D-alanine--D-alanine ligase 	PSPPH_3913	GCG	TCG	A	S
+Contig_2	4482381	Synonymous	Uncharacterized protein 	PSPPH_3922	CAA	CAG	Q	Q
+Contig_2	4489899	Synonymous	ABC transporter, binding protein 	PSPPH_3928	GTG	GTA	V	V
+Contig_2	4510658	Non-synonymous	Ribonuclease 3 	PSPPH_3948	CAC	CAG	H	Q
+Contig_2	4532237	Synonymous	ABC transporter, periplasmic substrate-binding protein 	PSPPH_3971	AGC	AGT	S	S
+Contig_2	4555739	Non-synonymous	Probable transcriptional regulator, LysR family 	PSPPH_3990	CAC	CAG	H	Q
+Contig_2	4560298	Synonymous	Uncharacterized protein 	PSPPH_3995	GTC	GTA	V	V
+Contig_2	4561963	Synonymous	Unnamed protein product 	PSPPH_3996	ATC	ATA	I	I
+Contig_2	4566160	Synonymous	Beta-glucosidase 	PSPPH_4000	ATC	ATT	I	I
+Contig_2	4614799	Non-synonymous	Oxidoreductase, iron-sulfur-binding 	PSPPH_4040	CAT	CAG	H	Q
+Contig_2	4618190	Non-synonymous	Insecticidal toxin protein, putative 	PSPPH_4042	TAC	GAC	Y	D
+Contig_2	4664025	Non-synonymous	Uncharacterized protein 	PSPPH_4081	TGG	TCG	W	S
+Contig_2	4695372	Non-synonymous	Lipid II flippase FtsW 	PSPPH_4109	GCC	GAC	A	D
+Contig_2	4717543	Synonymous	Sulfate adenylyltransferase subunit 1 	PSPPH_4132	CGC	CGA	R	R
+Contig_2	4731038	Synonymous	Toluene tolerance ABC transporter, ATP-binding protein, putative 	PSPPH_4145	GGG	GGA	G	G
+Contig_2	47703	Synonymous	ISPsy18, transposase 	PSPPH_0046	CCC	CCA	P	P
+Contig_2	4805456	Non-synonymous	Site-specific recombinase, phage integrase family 	PSPPH_4217	CTT	ATT	L	I
+Contig_2	4922052	Synonymous	Pyruvate phosphate dikinase, PEP/pyruvate binding domain protein 	PSPPH_4307	GTC	GTT	V	V
+Contig_2	4931210	Non-synonymous	Uncharacterized protein 	PSPPH_4317	ACT	GCT	T	A
+Contig_2	4938063	Non-synonymous	Uncharacterized protein 	PSPPH_4323	GTA	ATA	V	I
+Contig_2	4958652	Non-synonymous	Ribosomal RNA large subunit methyltransferase G 	PSPPH_4337	TTC	TTA	F	L
+Contig_2	4989071	Non-synonymous	Type III effector HopI1 	PSPPH_4366	CGT	TGT	R	C
+Contig_2	4998738	Non-synonymous	Conserved domain protein 	PSPPH_4376	CGT	CTT	R	L
+Contig_2	5016712	Synonymous	Uncharacterized protein 	PSPPH_4392	TAC	TAT	Y	Y
+Contig_2	5018444	Synonymous	Leucine--tRNA ligase 	PSPPH_4394	GTT	GTG	V	V
+Contig_2	5020864	Non-synonymous	DNA polymerase III, delta subunit 	PSPPH_4396	ACG	GCG	T	A
+Contig_2	5078575	Synonymous	MJ0042 family finger-like domain protein 	PSPPH_4446	CTG	TTG	L	L
+Contig_2	5103199	Non-synonymous	Uncharacterized protein 	PSPPH_4468	CAT	CGT	H	R
+Contig_2	5117176	Non-synonymous	Sensor histidine kinase 	PSPPH_4481	ACC	GCC	T	A
+Contig_2	5123121	Non-synonymous	Membrane protein, putative 	PSPPH_4487	ACC	AGC	T	S
+Contig_2	5129103	Non-synonymous	Bacterioferritin, putative 	PSPPH_4493	GAT	GAG	D	E
+Contig_2	5180949	Non-synonymous	Uncharacterized protein 	PSPPH_4545	GTT	ATT	V	I
+Contig_2	5187847	Synonymous	Uncharacterized protein 	PSPPH_4549	CGA	CGT	R	R
+Contig_2	519621	Non-synonymous	HopAN1 protein 	PSPPH_0456	AAT	TAT	N	Y
+Contig_2	5196840	Non-synonymous	Major facilitator family transporter 	PSPPH_4557	CGT	CTT	R	L
+Contig_2	5197638	Non-synonymous	Major facilitator family transporter 	PSPPH_4557	CGT	CAT	R	H
+Contig_2	5215833	Synonymous	30S ribosomal protein S11 	PSPPH_4569	TAA	TAG	*	*
+Contig_2	5226539	Non-synonymous	50S ribosomal protein L3 	PSPPH_4592	TTA	GTA	L	V
+Contig_2	5237512	Synonymous	DNA-directed RNA polymerase subunit beta 	PSPPH_4599	CTT	CTG	L	L
+Contig_2	5238872	Non-synonymous	DNA-directed RNA polymerase subunit beta 	PSPPH_4599	CTC	CAC	L	H
+Contig_2	5242684	Non-synonymous	50S ribosomal protein L11 	PSPPH_4603	CAC	CGC	H	R
+Contig_2	526500	Non-synonymous	Oxygen-independent coproporphyrinogen III oxidase, putative 	PSPPH_0462	TTG	TCG	L	S
+Contig_2	5292266	Non-synonymous	Uncharacterized protein 	PSPPH_4653	CAG	CTG	Q	L
+Contig_2	5295460	Synonymous	Membrane protein, putative 	PSPPH_4658	ACG	ACA	T	T
+Contig_2	5321772	Non-synonymous	ATP/GTP-binding protein 	PSPPH_4686	ATG	TTG	M	L
+Contig_2	5322027	Non-synonymous	ATP/GTP-binding protein 	PSPPH_4686	TAG	AAG	*	K
+Contig_2	532479	Non-synonymous	Twitching motility protein 	PSPPH_0469	AAT	AGT	N	S
+Contig_2	5336736	Non-synonymous	Tryptophan 2-monooxygenase, putative 	PSPPH_4701	GAT	AAT	D	N
+Contig_2	5347040	Non-synonymous	Uncharacterized protein 	PSPPH_4711	TTC	CTC	F	L
+Contig_2	5454933	Synonymous	Rieske [2Fe-2S] region 	PSPPH_4806	GCC	GCG	A	A
+Contig_2	5469898	Non-synonymous	Phosphoglycerate kinase 	PSPPH_4819	GCG	ACG	A	T
+Contig_2	5475177	Non-synonymous	Transcriptional regulator, ArsR family 	PSPPH_4822	CCC	CTC	P	L
+Contig_2	5481595	Synonymous	DNA-binding heavy metal response regulator 	PSPPH_4828	GGC	GGT	G	G
+Contig_2	5486498	Non-synonymous	Cation efflux family protein 	PSPPH_4831	GTG	GAG	V	E
+Contig_2	5486941	Non-synonymous	Cation efflux family protein 	PSPPH_4831	GAG	AAG	E	K
+Contig_2	5491010	Non-synonymous	Rhs family protein 	PSPPH_4833	TAC	TCC	Y	S
+Contig_2	5494024	Non-synonymous	Rhs family protein 	PSPPH_4834	AGA	AGC	R	S
+Contig_2	5527383	Non-synonymous	Histidine transporter, periplasmic histidine-binding protein 	PSPPH_4861	TTG	TGG	L	W
+Contig_2	5538588	Non-synonymous	Cadmium-translocating P-type ATPase 	PSPPH_4869	AGC	GGC	S	G
+Contig_2	5543749	Synonymous	Phosphoenolpyruvate-protein phosphotransferase PtsP 	PSPPH_4874	CCG	CCA	P	P
+Contig_2	5567010	Non-synonymous	Putrescine-binding periplasmic protein 	PSPPH_4895	GAC	GTC	D	V
+Contig_2	5585382	Non-synonymous	Uncharacterized protein 	PSPPH_4911	TGG	TGT	W	C
+Contig_2	5588054	Non-synonymous	2,3-bisphosphoglycerate-independent phosphoglycerate mutase 	PSPPH_4916	GGC	GAC	G	D
+Contig_2	5590558	Non-synonymous	Peptidase, M23/M37 family 	PSPPH_4917	GGT	AGT	G	S
+Contig_2	5603454	Non-synonymous	AsmA family superfamily 	PSPPH_4929	ACC	GCC	T	A
+Contig_2	5606161	Non-synonymous	ISPsy18, transposase 	PSPPH_4933	GAT	AAT	D	N
+Contig_2	5625480	Synonymous	Prophage PSPPH06, putative tail fiber protein 	PSPPH_4952	CCG	CCT	P	P
+Contig_2	568569	Synonymous	Uncharacterized protein 	PSPPH_0494	GGG	GGT	G	G
+Contig_2	5701998	Non-synonymous	Peptide ABC transporter, permease protein 	PSPPH_5031	ATG	ATT	M	I
+Contig_2	5713658	Non-synonymous	Uncharacterized protein 	PSPPH_5041	GCC	GTC	A	V
+Contig_2	5768757	Non-synonymous	Uncharacterized protein 	PSPPH_5084	GCT	GGT	A	G
+Contig_2	5812775	Non-synonymous	Phosphate ABC transporter, periplasmic phosphate-binding protein, putative 	PSPPH_5123	ATT	AAT	I	N
+Contig_2	5824526	Synonymous	L-asparaginase I 	PSPPH_5135	CTG	TTG	L	L
+Contig_2	5826880	Synonymous	YeeE/YedE family protein 	PSPPH_5137	GCG	GCT	A	A
+Contig_2	5845895	Non-synonymous	Cobalamin synthesis protein/P47K family protein 	PSPPH_5154	GGT	GAT	G	D
+Contig_2	5862789	Synonymous	Membrane protein, putative 	PSPPH_5169	ATT	ATA	I	I
+Contig_2	5907796	Non-synonymous	Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 	PSPPH_5203	GGC	TGC	G	C
+Contig_2	5926337	Non-synonymous	Putative membrane protein insertion efficiency factor 	PSPPH_5221	ATG	ATT	M	I
+Contig_2	608890	Synonymous	Uncharacterized protein 	PSPPH_0518	ACC	ACG	T	T
+Contig_2	616579	Synonymous	Uncharacterized protein 	PSPPH_0524	GGT	GGA	G	G
+Contig_2	66323	Synonymous	Uroporphyrin-III C-methyltransferase, putative 	PSPPH_0065	CCA	CCG	P	P
+Contig_2	668740	Synonymous	ATP phosphoribosyltransferase regulatory subunit 	PSPPH_0569	AGT	AGC	S	S
+Contig_2	699129	Synonymous	High-affinity branched-chain amino acid ABC transporter, permease protein BraD 	PSPPH_0591	ATC	ATA	I	I
+Contig_2	70082	Non-synonymous	Sensor histidine kinase FimS 	PSPPH_0070	CAC	TAC	H	Y
+Contig_2	702667	Synonymous	High affinity branched-chain amino acid ABC transporter, ATP-binding protein 	PSPPH_0594	CTG	TTG	L	L
+Contig_2	754692	Synonymous	Uncharacterized protein 	PSPPH_0637	GTA	GTT	V	V
+Contig_2	764301	Non-synonymous	Polyamine ABC transporter, permease protein 	PSPPH_0645	GCC	ACC	A	T
+Contig_2	774454	Non-synonymous	Prophage PSPPH01, putative cellulase 	PSPPH_0655	AAC	AAA	N	K
+Contig_2	778923	Non-synonymous	Prophage PSPPH01, DNA circulation protein 	PSPPH_0662	CAG	CAC	Q	H
+Contig_2	877104	Non-synonymous	Uncharacterized protein 	PSPPH_0751	TCC	GCC	S	A
+Contig_2	906196	Non-synonymous	Uncharacterized protein 	PSPPH_0772	ATA	ATG	I	M
+Contig_2	945005	Non-synonymous	Chemotaxis response regulator protein-glutamate methylesterase 1 	PSPPH_0800	CCC	CGC	P	R
+Contig_2	945582	Non-synonymous	Chemotaxis response regulator protein-glutamate methylesterase 1 	PSPPH_0800	ACG	TCG	T	S
+Contig_3	1008	Synonymous	Replicase family family 	PSPPH_B0002	TTC	TTT	F	F
+Contig_3	1035	Synonymous	Replicase family family 	PSPPH_B0002	GCA	GCG	A	A
+Contig_3	1062	Synonymous	Replicase family family 	PSPPH_B0002	CTA	CTG	L	L
+Contig_3	1134	Synonymous	Replicase family family 	PSPPH_B0002	ACT	ACA	T	T
+Contig_3	1134	Synonymous	Replicase family family 	PSPPH_B0002	ACT	ACG	T	T
+Contig_3	1143	Synonymous	Replicase family family 	PSPPH_B0002	CGC	CGG	R	R
+Contig_3	1224	Synonymous	Replicase family family 	PSPPH_B0002	GCG	GCT	A	A
+Contig_3	1236	Synonymous	Replicase family family 	PSPPH_B0002	ACT	ACC	T	T
+Contig_3	13834	Synonymous	Site-specific recombinase, phage integrase family 	PSPPH_B0017	TAC	TAT	Y	Y
+Contig_3	13906	Synonymous	Site-specific recombinase, phage integrase family 	PSPPH_B0017	CTG	CTT	L	L
+Contig_3	13950	Synonymous	Site-specific recombinase, phage integrase family 	PSPPH_B0017	CTG	TTG	L	L
+Contig_3	1398	Synonymous	Replicase family family 	PSPPH_B0002	CGG	CGA	R	R
+Contig_3	1453	Synonymous	Replicase family family 	PSPPH_B0002	CGG	AGG	R	R
+Contig_3	1478	Non-synonymous	Replicase family family 	PSPPH_B0002	CAA	CCA	Q	P
+Contig_3	1525	Non-synonymous	Replicase family family 	PSPPH_B0002	GGT	AGT	G	S
+Contig_3	18684	Synonymous	Transcriptional regulator, PbsX family 	PSPPH_B0022	GAG	GAA	E	E
+Contig_3	18955	Non-synonymous	Transcriptional regulator, PbsX family 	PSPPH_B0022	AGC	ACC	S	T
+Contig_3	19207	Non-synonymous	Transcriptional regulator 	PSPPH_B0023	GAT	GTT	D	V
+Contig_3	19250	Synonymous	Transcriptional regulator 	PSPPH_B0023	TCT	TCC	S	S
+Contig_3	19268	Synonymous	Transcriptional regulator 	PSPPH_B0023	ATT	ATC	I	I
+Contig_3	19307	Synonymous	Transcriptional regulator 	PSPPH_B0023	CCT	CCC	P	P
+Contig_3	19349	Synonymous	Transcriptional regulator 	PSPPH_B0023	TCT	TCG	S	S
+Contig_3	19404	Non-synonymous	Transcriptional regulator 	PSPPH_B0023	GAA	CAA	E	Q
+Contig_3	19434	Synonymous	Transcriptional regulator 	PSPPH_B0023	CTG	TTG	L	L
+Contig_3	19709	Synonymous	Transcriptional regulator 	PSPPH_B0023	CGT	CGC	R	R
+Contig_3	19733	Synonymous	Transcriptional regulator 	PSPPH_B0023	AGA	AGG	R	R
+Contig_3	1975	Synonymous	Ultraviolet light resistance protein A 	PSPPH_B0003	GTT	GTC	V	V
+Contig_3	19761	Synonymous	Uncharacterized protein 	PSPPH_B0024	TTT	TTC	F	F
+Contig_3	19817	Non-synonymous	Uncharacterized protein 	PSPPH_B0024	TTA	TCA	L	S
+Contig_3	19977	Synonymous	Uncharacterized protein 	PSPPH_B0024	CTC	CTG	L	L
+Contig_3	20118	Synonymous	Conjugal transfer protein 	PSPPH_B0025	TGC	TGT	C	C
+Contig_3	2014	Synonymous	Ultraviolet light resistance protein A 	PSPPH_B0003	ATC	ATT	I	I
+Contig_3	20394	Synonymous	Conjugal transfer protein 	PSPPH_B0025	TGC	TGT	C	C
+Contig_3	20523	Synonymous	Conjugal transfer protein 	PSPPH_B0025	GTA	GTG	V	V
+Contig_3	20739	Synonymous	Conjugal transfer protein 	PSPPH_B0025	GTT	GTG	V	V
+Contig_3	20772	Synonymous	Conjugal transfer protein 	PSPPH_B0025	CTT	CTC	L	L
+Contig_3	20821	Non-synonymous	Conjugal transfer protein 	PSPPH_B0026	GAC	GGC	D	G
+Contig_3	20945	Synonymous	Conjugal transfer protein 	PSPPH_B0026	ACC	ACT	T	T
+Contig_3	21098	Synonymous	Conjugal transfer protein 	PSPPH_B0026	CAA	CAG	Q	Q
+Contig_3	21116	Synonymous	Conjugal transfer protein 	PSPPH_B0026	GTA	GTG	V	V
+Contig_3	21161	Synonymous	Conjugal transfer protein 	PSPPH_B0027	AAG	AAA	K	K
+Contig_3	21362	Synonymous	Conjugal transfer protein 	PSPPH_B0027	ATT	ATC	I	I
+Contig_3	21567	Non-synonymous	Conjugal transfer protein 	PSPPH_B0027	CGG	TGG	R	W
+Contig_3	21801	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GCA	GCC	A	A
+Contig_3	21822	Synonymous	Conjugal transfer protein 	PSPPH_B0028	TTC	TTT	F	F
+Contig_3	21867	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GAG	GAA	E	E
+Contig_3	2190	Non-synonymous	RulB protein 	PSPPH_B0004	GCG	ACG	A	T
+Contig_3	22054	Synonymous	Conjugal transfer protein 	PSPPH_B0028	CTG	TTG	L	L
+Contig_3	2210	Synonymous	RulB protein 	PSPPH_B0004	GTC	GTT	V	V
+Contig_3	22206	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GCT	GCC	A	A
+Contig_3	22242	Synonymous	Conjugal transfer protein 	PSPPH_B0028	ACA	ACG	T	T
+Contig_3	22365	Synonymous	Conjugal transfer protein 	PSPPH_B0028	ACC	ACT	T	T
+Contig_3	22467	Synonymous	Conjugal transfer protein 	PSPPH_B0028	TTT	TTC	F	F
+Contig_3	22665	Synonymous	Conjugal transfer protein 	PSPPH_B0028	CCG	CCC	P	P
+Contig_3	22761	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GTC	GTT	V	V
+Contig_3	23157	Synonymous	Conjugal transfer protein 	PSPPH_B0028	CTA	CTG	L	L
+Contig_3	23472	Synonymous	Conjugal transfer protein 	PSPPH_B0028	CGT	CGC	R	R
+Contig_3	23658	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GGA	GGG	G	G
+Contig_3	23682	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GTC	GTA	V	V
+Contig_3	23790	Synonymous	Conjugal transfer protein 	PSPPH_B0028	CGC	CGT	R	R
+Contig_3	23806	Non-synonymous	Conjugal transfer protein 	PSPPH_B0028	CGC	GGC	R	G
+Contig_3	23883	Synonymous	Conjugal transfer protein 	PSPPH_B0028	GAC	GAT	D	D
+Contig_3	24012	Synonymous	Conjugal transfer protein 	PSPPH_B0028	ATT	ATC	I	I
+Contig_3	24134	Synonymous	Conjugal transfer protein 	PSPPH_B0029	CTT	CTG	L	L
+Contig_3	24375	Non-synonymous	Conjugal transfer protein 	PSPPH_B0029	GGC	AGC	G	S
+Contig_3	24632	Synonymous	Conjugal transfer protein 	PSPPH_B0029	AAG	AAA	K	K
+Contig_3	25080	Non-synonymous	Uncharacterized protein 	PSPPH_B0030	TTT	TAT	F	Y
+Contig_3	25121	Synonymous	Conjugal transfer protein 	PSPPH_B0031	AAG	AAA	K	K
+Contig_3	25141	Non-synonymous	Conjugal transfer protein 	PSPPH_B0031	GGT	GAT	G	D
+Contig_3	25292	Synonymous	Conjugal transfer protein 	PSPPH_B0031	GAA	GAG	E	E
+Contig_3	25310	Synonymous	Conjugal transfer protein 	PSPPH_B0031	ATC	ATT	I	I
+Contig_3	25454	Synonymous	Conjugal transfer protein 	PSPPH_B0031	AGC	AGT	S	S
+Contig_3	25577	Synonymous	Conjugal transfer protein 	PSPPH_B0031	GGC	GGA	G	G
+Contig_3	25610	Synonymous	Conjugal transfer protein 	PSPPH_B0031	ACG	ACC	T	T
+Contig_3	25682	Synonymous	Conjugal transfer protein 	PSPPH_B0031	TTC	TTT	F	F
+Contig_3	25727	Synonymous	Conjugal transfer protein 	PSPPH_B0031	GCG	GCA	A	A
+Contig_3	25727	Synonymous	Conjugal transfer protein 	PSPPH_B0031	GCG	GCT	A	A
+Contig_3	25827	Synonymous	Conjugal transfer protein 	PSPPH_B0031	CTG	TTG	L	L
+Contig_3	25874	Synonymous	Conjugal transfer protein 	PSPPH_B0031	GCT	GCG	A	A
+Contig_3	26184	Synonymous	Conjugal transfer protein 	PSPPH_B0032	CCC	CCA	P	P
+Contig_3	26208	Synonymous	Conjugal transfer protein 	PSPPH_B0032	CCA	CCC	P	P
+Contig_3	26226	Synonymous	Conjugal transfer protein 	PSPPH_B0032	GCA	GCG	A	A
+Contig_3	26341	Non-synonymous	Conjugal transfer protein 	PSPPH_B0032	GCC	ACC	A	T
+Contig_3	26385	Synonymous	Conjugal transfer protein 	PSPPH_B0032	TCT	TCG	S	S
+Contig_3	26515	Synonymous	Conjugal transfer protein 	PSPPH_B0033	GAT	GAC	D	D
+Contig_3	26540	Synonymous	Conjugal transfer protein 	PSPPH_B0033	CTG	TTG	L	L
+Contig_3	26659	Synonymous	Conjugal transfer protein 	PSPPH_B0033	TTC	TTT	F	F
+Contig_3	26730	Non-synonymous	Conjugal transfer protein 	PSPPH_B0033	ACC	AAC	T	N
+Contig_3	2696	Synonymous	RulB protein 	PSPPH_B0004	GTA	GTG	V	V
+Contig_3	27001	Synonymous	Conjugal transfer protein 	PSPPH_B0033	CTT	CTG	L	L
+Contig_3	27109	Synonymous	Conjugal transfer protein 	PSPPH_B0033	ACG	ACA	T	T
+Contig_3	27160	Synonymous	Conjugal transfer protein 	PSPPH_B0033	CTA	CTT	L	L
+Contig_3	27305	Synonymous	Conjugal transfer protein 	PSPPH_B0034	GGT	GGC	G	G
+Contig_3	27344	Synonymous	Conjugal transfer protein 	PSPPH_B0034	TCG	TCC	S	S
+Contig_3	2738	Synonymous	RulB protein 	PSPPH_B0004	GTA	GTC	V	V
+Contig_3	27437	Synonymous	Conjugal transfer protein 	PSPPH_B0034	CTT	CTG	L	L
+Contig_3	27636	Non-synonymous	Conjugal transfer protein 	PSPPH_B0034	TCG	CCG	S	P
+Contig_3	27758	Synonymous	Conjugal transfer protein 	PSPPH_B0034	GGT	GGC	G	G
+Contig_3	27893	Synonymous	Conjugal transfer protein 	PSPPH_B0034	GGC	GGA	G	G
+Contig_3	28245	Synonymous	Conjugal transfer protein 	PSPPH_B0035	CTT	CTG	L	L
+Contig_3	28305	Synonymous	Conjugal transfer protein 	PSPPH_B0035	ACC	ACT	T	T
+Contig_3	28348	Non-synonymous	Conjugal transfer protein 	PSPPH_B0035	AAC	CAC	N	H
+Contig_3	28504	Non-synonymous	Conjugal transfer protein 	PSPPH_B0035	GAC	AAC	D	N
+Contig_3	28552	Non-synonymous	Conjugal transfer protein 	PSPPH_B0035	CCC	TCC	P	S
+Contig_3	28656	Synonymous	Conjugal transfer protein 	PSPPH_B0035	ACC	ACT	T	T
+Contig_3	28676	Non-synonymous	Conjugal transfer protein 	PSPPH_B0035	CCG	CAG	P	Q
+Contig_3	28818	Synonymous	Conjugal transfer protein 	PSPPH_B0035	GCC	GCG	A	A
+Contig_3	28851	Synonymous	Conjugal transfer protein 	PSPPH_B0035	AAA	AAG	K	K
+Contig_3	29025	Synonymous	Conjugal transfer protein 	PSPPH_B0035	GGG	GGA	G	G
+Contig_3	2918	Synonymous	RulB protein 	PSPPH_B0004	CGC	CGG	R	R
+Contig_3	29382	Synonymous	Conjugal transfer protein 	PSPPH_B0035	GAC	GAT	D	D
+Contig_3	29547	Synonymous	Conjugal transfer protein 	PSPPH_B0036	GAA	GAG	E	E
+Contig_3	29664	Synonymous	Conjugal transfer protein 	PSPPH_B0036	CCG	CCT	P	P
+Contig_3	29724	Synonymous	Conjugal transfer protein 	PSPPH_B0036	GCG	GCC	A	A
+Contig_3	29748	Synonymous	Conjugal transfer protein 	PSPPH_B0036	CTT	CTG	L	L
+Contig_3	29883	Synonymous	Conjugal transfer protein 	PSPPH_B0036	GAG	GAA	E	E
+Contig_3	29964	Synonymous	Conjugal transfer protein 	PSPPH_B0036	CCA	CCG	P	P
+Contig_3	29995	Synonymous	Conjugal transfer protein 	PSPPH_B0036	CTG	TTG	L	L
+Contig_3	30057	Synonymous	Conjugal transfer protein 	PSPPH_B0036	CCC	CCT	P	P
+Contig_3	30111	Synonymous	Conjugal transfer protein 	PSPPH_B0036	CCT	CCC	P	P
+Contig_3	3011	Synonymous	RulB protein 	PSPPH_B0004	TCC	TCT	S	S
+Contig_3	30510	Synonymous	Uncharacterized protein 	PSPPH_B0037	GTG	GTT	V	V
+Contig_3	30594	Synonymous	Uncharacterized protein 	PSPPH_B0037	ACG	ACA	T	T
+Contig_3	30687	Synonymous	Uncharacterized protein 	PSPPH_B0037	CCG	CCA	P	P
+Contig_3	30711	Synonymous	Uncharacterized protein 	PSPPH_B0037	ATC	ATT	I	I
+Contig_3	30770	Non-synonymous	Uncharacterized protein 	PSPPH_B0037	CAC	CGC	H	R
+Contig_3	31032	Non-synonymous	Uncharacterized protein 	PSPPH_B0038	GGC	GCC	G	A
+Contig_3	31277	Synonymous	Uncharacterized protein 	PSPPH_B0039	GAC	GAT	D	D
+Contig_3	3164	Synonymous	RulB protein 	PSPPH_B0004	GCG	GCC	A	A
+Contig_3	3185	Synonymous	RulB protein 	PSPPH_B0004	ATA	ATT	I	I
+Contig_3	32254	Non-synonymous	Uncharacterized protein 	PSPPH_B0039	GAT	GGT	D	G
+Contig_3	3247	Non-synonymous	RulB protein 	PSPPH_B0004	GGC	GAC	G	D
+Contig_3	32649	Synonymous	Uncharacterized protein 	PSPPH_B0039	CTG	TTG	L	L
+Contig_3	32678	Synonymous	Uncharacterized protein 	PSPPH_B0039	GGC	GGT	G	G
+Contig_3	32732	Synonymous	Uncharacterized protein 	PSPPH_B0039	ATT	ATA	I	I
+Contig_3	32850	Synonymous	Uncharacterized protein 	PSPPH_B0039	CTG	TTG	L	L
+Contig_3	33217	Non-synonymous	Uncharacterized protein 	PSPPH_B0039	TGC	TAC	C	Y
+Contig_3	33234	Non-synonymous	Uncharacterized protein 	PSPPH_B0039	GCC	ACC	A	T
+Contig_3	33611	Synonymous	Uncharacterized protein 	PSPPH_B0040	ACG	ACT	T	T
+Contig_3	33746	Synonymous	Uncharacterized protein 	PSPPH_B0040	GCT	GCC	A	A
+Contig_3	33860	Synonymous	Uncharacterized protein 	PSPPH_B0040	AGC	AGT	S	S
+Contig_3	33877	Synonymous	Conjugal transfer protein 	PSPPH_B0041	GCC	GCA	A	A
+Contig_3	33991	Synonymous	Conjugal transfer protein 	PSPPH_B0041	CAG	CAA	Q	Q
+Contig_3	34009	Synonymous	Conjugal transfer protein 	PSPPH_B0041	GCG	GCA	A	A
+Contig_3	34150	Synonymous	Conjugal transfer protein 	PSPPH_B0041	TGT	TGC	C	C
+Contig_3	34219	Synonymous	Conjugal transfer protein 	PSPPH_B0041	CTG	CTT	L	L
+Contig_3	34282	Synonymous	Conjugal transfer protein 	PSPPH_B0041	AAT	AAC	N	N
+Contig_3	34306	Synonymous	Conjugal transfer protein 	PSPPH_B0041	GGC	GGT	G	G
+Contig_3	34345	Synonymous	Conjugal transfer protein 	PSPPH_B0041	ACG	ACC	T	T
+Contig_3	34477	Synonymous	Conjugal transfer protein 	PSPPH_B0041	CGT	CGC	R	R
+Contig_3	35078	Non-synonymous	Conjugal transfer protein 	PSPPH_B0041	GTA	ATA	V	I
+Contig_3	35140	Synonymous	Conjugal transfer protein 	PSPPH_B0041	CAG	CAA	Q	Q
+Contig_3	35429	Non-synonymous	Conjugal transfer protein 	PSPPH_B0041	GTC	ATC	V	I
+Contig_3	35656	Non-synonymous	Killer protein, putative 	PSPPH_B0042	ATA	ATG	I	M
+Contig_3	356	Non-synonymous	Replicase family family 	PSPPH_B0002	AGC	AAC	S	N
+Contig_3	35767	Synonymous	Killer protein, putative 	PSPPH_B0042	GAG	GAA	E	E
+Contig_3	36010	Synonymous	DNA topoisomerase III 	PSPPH_B0043	ACT	ACC	T	T
+Contig_3	36084	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	GCA	GAA	A	E
+Contig_3	36229	Synonymous	DNA topoisomerase III 	PSPPH_B0043	GCC	GCT	A	A
+Contig_3	36250	Synonymous	DNA topoisomerase III 	PSPPH_B0043	GGC	GGT	G	G
+Contig_3	36337	Synonymous	DNA topoisomerase III 	PSPPH_B0043	AAT	AAC	N	N
+Contig_3	36377	Synonymous	DNA topoisomerase III 	PSPPH_B0043	TTG	CTG	L	L
+Contig_3	36556	Synonymous	DNA topoisomerase III 	PSPPH_B0043	AAT	AAC	N	N
+Contig_3	36659	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	ACC	GCC	T	A
+Contig_3	36784	Synonymous	DNA topoisomerase III 	PSPPH_B0043	CCG	CCC	P	P
+Contig_3	36936	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	GCC	GAC	A	D
+Contig_3	37036	Synonymous	DNA topoisomerase III 	PSPPH_B0043	AGC	AGT	S	S
+Contig_3	37126	Synonymous	DNA topoisomerase III 	PSPPH_B0043	GAA	GAG	E	E
+Contig_3	37156	Synonymous	DNA topoisomerase III 	PSPPH_B0043	CGG	CGT	R	R
+Contig_3	37186	Synonymous	DNA topoisomerase III 	PSPPH_B0043	CGC	CGT	R	R
+Contig_3	37353	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	GGT	GAT	G	D
+Contig_3	37378	Synonymous	DNA topoisomerase III 	PSPPH_B0043	GTA	GTG	V	V
+Contig_3	37729	Synonymous	DNA topoisomerase III 	PSPPH_B0043	GCT	GCC	A	A
+Contig_3	37770	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	GCC	GGC	A	G
+Contig_3	37794	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	AAC	AGC	N	S
+Contig_3	37876	Non-synonymous	DNA topoisomerase III 	PSPPH_B0043	GAC	GAG	D	E
+Contig_3	38287	Non-synonymous	Uncharacterized protein 	PSPPH_B0044	CAC	AAC	H	N
+Contig_3	38375	Non-synonymous	Uncharacterized protein 	PSPPH_B0044	GCG	GAG	A	E
+Contig_3	38394	Non-synonymous	Uncharacterized protein 	PSPPH_B0044	TTG	TTC	L	F
+Contig_3	38517	Non-synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	ATG	CTG	M	L
+Contig_3	38534	Synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	GCA	GCG	A	A
+Contig_3	38597	Synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	GTT	GTC	V	V
+Contig_3	38642	Synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	GCA	GCC	A	A
+Contig_3	38661	Synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	TTG	CTG	L	L
+Contig_3	38836	Non-synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	AAC	ACC	N	T
+Contig_3	38864	Synonymous	Single-stranded DNA-binding protein 	PSPPH_B0045	TCG	TCC	S	S
+Contig_3	43035	Non-synonymous	Relaxase, putative 	PSPPH_B0050	GGT	AGT	G	S
+Contig_3	43126	Non-synonymous	Relaxase, putative 	PSPPH_B0050	GCC	GGC	A	G
+Contig_3	43192	Non-synonymous	Relaxase, putative 	PSPPH_B0050	GGA	GCA	G	A
+Contig_3	43292	Synonymous	Relaxase, putative 	PSPPH_B0050	GCC	GCG	A	A
+Contig_3	43316	Synonymous	Relaxase, putative 	PSPPH_B0050	ACT	ACC	T	T
+Contig_3	43347	Synonymous	Relaxase, putative 	PSPPH_B0050	TTG	CTG	L	L
+Contig_3	43456	Non-synonymous	Relaxase, putative 	PSPPH_B0050	TTC	TCC	F	S
+Contig_3	43517	Synonymous	Relaxase, putative 	PSPPH_B0050	CCT	CCC	P	P
+Contig_3	43774	Non-synonymous	Relaxase, putative 	PSPPH_B0050	TAC	TTC	Y	F
+Contig_3	43826	Synonymous	Relaxase, putative 	PSPPH_B0050	AAA	AAG	K	K
+Contig_3	43881	Non-synonymous	Relaxase, putative 	PSPPH_B0050	AAC	CAC	N	H
+Contig_3	43961	Synonymous	Relaxase, putative 	PSPPH_B0050	GAT	GAC	D	D
+Contig_3	44021	Synonymous	Relaxase, putative 	PSPPH_B0050	GTC	GTA	V	V
+Contig_3	44216	Synonymous	Relaxase, putative 	PSPPH_B0050	ATT	ATC	I	I
+Contig_3	44240	Synonymous	Relaxase, putative 	PSPPH_B0050	GCC	GCT	A	A
+Contig_3	44408	Synonymous	Relaxase, putative 	PSPPH_B0050	GAG	GAA	E	E
+Contig_3	44456	Synonymous	Relaxase, putative 	PSPPH_B0050	GTA	GTT	V	V
+Contig_3	44568	Non-synonymous	Relaxase, putative 	PSPPH_B0050	ACC	GCC	T	A
+Contig_3	44708	Synonymous	Relaxase, putative 	PSPPH_B0050	CCT	CCG	P	P
+Contig_3	44772	Non-synonymous	Relaxase, putative 	PSPPH_B0050	ACG	CCG	T	P
+Contig_3	44795	Synonymous	Relaxase, putative 	PSPPH_B0050	GCG	GCA	A	A
+Contig_3	44813	Non-synonymous	Relaxase, putative 	PSPPH_B0050	AAC	AAG	N	K
+Contig_3	44836	Non-synonymous	Relaxase, putative 	PSPPH_B0050	GAC	GCC	D	A
+Contig_3	44866	Non-synonymous	Relaxase, putative 	PSPPH_B0050	CTT	CGT	L	R
+Contig_3	44894	Synonymous	Relaxase, putative 	PSPPH_B0050	CCA	CCG	P	P
+Contig_3	44942	Synonymous	Relaxase, putative 	PSPPH_B0050	CGC	CGA	R	R
+Contig_3	45038	Synonymous	Relaxase, putative 	PSPPH_B0050	CGT	CGC	R	R
+Contig_3	45089	Synonymous	Relaxase, putative 	PSPPH_B0050	TCG	TCA	S	S
+Contig_3	45180	Non-synonymous	Relaxase, putative 	PSPPH_B0050	TCA	GCA	S	A
+Contig_3	45275	Synonymous	Relaxase, putative 	PSPPH_B0050	AAT	AAC	N	N
+Contig_3	45327	Non-synonymous	Relaxase, putative 	PSPPH_B0050	ATG	GTG	M	V
+Contig_3	45419	Synonymous	Relaxase, putative 	PSPPH_B0050	GTC	GTT	V	V
+Contig_3	456	Synonymous	Replicase family family 	PSPPH_B0002	GCA	GCG	A	A
+Contig_3	45828	Synonymous	Transcriptional regulator, GntR family 	PSPPH_B0051	ACA	ACC	T	T
+Contig_3	45912	Synonymous	Transcriptional regulator, GntR family 	PSPPH_B0051	GCG	GCC	A	A
+Contig_3	483	Synonymous	Replicase family family 	PSPPH_B0002	ACC	ACT	T	T
+Contig_3	516	Synonymous	Replicase family family 	PSPPH_B0002	TAC	TAT	Y	Y
+Contig_3	537	Synonymous	Replicase family family 	PSPPH_B0002	CGT	CGC	R	R
+Contig_3	633	Synonymous	Replicase family family 	PSPPH_B0002	CGT	CGC	R	R
+Contig_3	658	Synonymous	Replicase family family 	PSPPH_B0002	CTG	TTG	L	L
+Contig_3	678	Synonymous	Replicase family family 	PSPPH_B0002	TCT	TCC	S	S
+Contig_3	695	Non-synonymous	Replicase family family 	PSPPH_B0002	AAC	AGC	N	S
+Contig_3	738	Synonymous	Replicase family family 	PSPPH_B0002	GCG	GCC	A	A
+Contig_3	7502	Synonymous	Uncharacterized protein 	PSPPH_B0011	ACG	ACC	T	T
+Contig_3	7571	Synonymous	Uncharacterized protein 	PSPPH_B0011	GTG	GTT	V	V
+Contig_3	774	Synonymous	Replicase family family 	PSPPH_B0002	TAC	TAT	Y	Y
+Contig_3	836	Non-synonymous	Replicase family family 	PSPPH_B0002	AAC	AGC	N	S
+Contig_3	879	Synonymous	Replicase family family 	PSPPH_B0002	TTA	TTG	L	L
+Contig_3	942	Synonymous	Replicase family family 	PSPPH_B0002	ATT	ATC	I	I
